@@ -59,7 +59,9 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 10.5 System分区签名过程 
 ```
 
-![ROM开发者社区](http://www.zecoki.com/ximages/xq/ewm.jpg "在这里输入图片标题")
+扫码加入星球，零距离交流指导开发
+
+![ROM开发者社区](http://www.zecoki.com/ximages/xq/ewm.jpg"在这里输入图片标题")
 
 #### 软件架构
 软件架构说明
