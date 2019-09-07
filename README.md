@@ -60,7 +60,7 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 ```
 
 扫码加入星球，零距离交流指导开发<br/>
-![输入图片说明](http://www.zecoki.com/ximages/xq/ewm.jpg "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0907/153629_70d32aa7_5220892.jpeg "在这里输入图片标题")
 
 #### 软件架构
 软件架构说明
@@ -84,3 +84,5 @@ Android ROM定制开发，移植编译，root，Recovery编译，开发工具下
 2. 新建 Feat_xxx 分支
 3. 提交代码
 4. 新建 Pull Request
+
+Github地址：https://github.com/xxxgod/ROM-Dev
