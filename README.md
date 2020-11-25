@@ -116,43 +116,43 @@ https://t.zsxq.com/VvjEqRV</br>
 课程总计10章，共30节，平均一天一课件更新，知识讲解+案例分析/思路指导。</br>
 
 1.认识ROM开发</br>
-1.1ROM的概念  https://articles.zsxq.com/id_js8ai1nflo79.html</br>
-1.2 第三方ROM的诞生  https://articles.zsxq.com/id_bvlga8ove1pu.html</br>
-1.3 ROM系统结构和分区解 https://articles.zsxq.com/id_7m5xo483mpqp.html</br>
+1.1ROM的概念</br>  https://articles.zsxq.com/id_js8ai1nflo79.html</br>
+1.2 第三方ROM的诞生</br>  https://articles.zsxq.com/id_bvlga8ove1pu.html</br>
+1.3 ROM系统结构和分区解</br> https://articles.zsxq.com/id_7m5xo483mpqp.html</br>
 2.开发环境安装和准备</br>
-2.1  Windows    https://articles.zsxq.com/id_opvauf0gq9xt.html</br>
+2.1  Windows</br>    https://articles.zsxq.com/id_opvauf0gq9xt.html</br>
 2.2  Linux   </br> 
 3.ROM解包打包方法</br>
-3.1 常规system userdata解包打包  https://articles.zsxq.com/id_dw81t0k1n25l.html</br>
-3.2  Boot recovery解包  https://articles.zsxq.com/id_1to3iknhu04e.html</br>
+3.1 常规system userdata解包打包</br> https://articles.zsxq.com/id_dw81t0k1n25l.html</br>
+3.2  Boot recovery解包 </br> https://articles.zsxq.com/id_1to3iknhu04e.html</br>
 4.ADB使用教程</br>
-4.1  Adb 命令使用  https://articles.zsxq.com/id_swwps6l5jrpg.html</br>
+4.1  Adb 命令使用 </br> https://articles.zsxq.com/id_swwps6l5jrpg.html</br>
 4.2  Adb logcat调试 https://articles.zsxq.com/id_0pkhppfdrwb5.html</br>
 5.反编译工具使用</br>
-5.1  apk反编译回编译工具使用   https://articles.zsxq.com/id_0pkhppfdrwb5.html</br>
-5.2反编译案例分析（小米校验 系统升级等） https://articles.zsxq.com/id_83cxfxj4jlgr.html</br>
+5.1  apk反编译回编译工具使用  </br> https://articles.zsxq.com/id_0pkhppfdrwb5.html</br>
+5.2反编译案例分析（小米校验 系统升级等） </br>https://articles.zsxq.com/id_83cxfxj4jlgr.html</br>
 6.卡刷包线刷包格式转换</br>
-6.1 dat2img https://articles.zsxq.com/id_9f8sq3pls82s.html</br>
-6.2 Updata.app转img https://articles.zsxq.com/id_qhxxwbx8kbn0.html</br>
+6.1 dat2img </br>https://articles.zsxq.com/id_9f8sq3pls82s.html</br>
+6.2 Updata.app转img </br>https://articles.zsxq.com/id_qhxxwbx8kbn0.html</br>
 7.常规刷机平台和刷机方法</br>
-7.1系统启动流程和刷机模式 https://articles.zsxq.com/id_o063kftagt85.html</br>
-7.2常规平台刷机方法介绍 https://t.zsxq.com/RbyBiA6</br>
-7.3驱动&报错问题解决 https://t.zsxq.com/FQjiUfy</br>
+7.1系统启动流程和刷机模式 </br>https://articles.zsxq.com/id_o063kftagt85.html</br>
+7.2常规平台刷机方法介绍</br> https://t.zsxq.com/RbyBiA6</br>
+7.3驱动&报错问题解决</br> https://t.zsxq.com/FQjiUfy</br>
 8.常规刷机方案适配思路</br>
-8.1 fastboot平台 https://articles.zsxq.com/id_ij2dostc4a58.html</br>
-8.1MTK平台 https://articles.zsxq.com/id_679xlbm0swq0.html</br>
-8.2高通平台 https://articles.zsxq.com/id_cru5g5pfgubu.html</br>
+8.1 fastboot平台</br> https://articles.zsxq.com/id_ij2dostc4a58.html</br>
+8.1MTK平台</br> https://articles.zsxq.com/id_679xlbm0swq0.html</br>
+8.2高通平台</br> https://articles.zsxq.com/id_cru5g5pfgubu.html</br>
 9.ROM修改定制方案</br>
-9.1 手机信息获取和修改https://articles.zsxq.com/id_6hiwx3slv7eg.html</br>
-9.2 内置&精简APP方法简述. https://articles.zsxq.com/id_l0f3dq8bz7m5.html</br>
-9.3 桌面排序&准确获取包名类名 https://articles.zsxq.com/id_8rjlks65559o.html</br>
-9.4 解屏幕锁账户锁思路解析 https://articles.zsxq.com/id_su331pr7iz4l.html</br>
-9.5  ODEX合并解析 https://articles.zsxq.com/id_1ipcc5otx6rj.html</br>
-9.6 多国语言定制思路 https://articles.zsxq.com/id_c0n5nou79hhb.html</br>
+9.1 手机信息获取和修改</br>https://articles.zsxq.com/id_6hiwx3slv7eg.html</br>
+9.2 内置&精简APP方法简述.</br> https://articles.zsxq.com/id_l0f3dq8bz7m5.html</br>
+9.3 桌面排序&准确获取包名类名</br> https://articles.zsxq.com/id_8rjlks65559o.html</br>
+9.4 解屏幕锁账户锁思路解析</br> https://articles.zsxq.com/id_su331pr7iz4l.html</br>
+9.5  ODEX合并解析</br> https://articles.zsxq.com/id_1ipcc5otx6rj.html</br>
+9.6 多国语言定制思路</br> https://articles.zsxq.com/id_c0n5nou79hhb.html</br>
 10.拓展内容和相关案例</br>
-10.1安卓源码同步和编译 https://articles.zsxq.com/id_eafrboid5jot.html</br>
-10.2 ROM移植思路和过程 https://articles.zsxq.com/id_tb8r1xzizwk9.html</br>
-10.3卡刷update-script脚本分析 https://articles.zsxq.com/id_w69hnw2r0ip9.html</br>
+10.1安卓源码同步和编译</br> https://articles.zsxq.com/id_eafrboid5jot.html</br>
+10.2 ROM移植思路和过程</br> https://articles.zsxq.com/id_tb8r1xzizwk9.html</br>
+10.3卡刷update-script脚本分析</br> https://articles.zsxq.com/id_w69hnw2r0ip9.html</br>
 10.4 Dmverity原理阐述 </br>
  https://articles.zsxq.com/id_dag3kxwww28m.html</br>
 10.5 System分区签名过程 </br>
