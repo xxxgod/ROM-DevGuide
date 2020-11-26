@@ -267,7 +267,7 @@ https://articles.zsxq.com/id_gw7cw1w37c2p.html
 
 ​                                     
 
-## 第四期（计划中）ROM开发高级教程 （小白学成版）
+## 第四期 ROM开发高级教程 （小白学成版）---计划中
 
 
 
