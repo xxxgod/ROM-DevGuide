@@ -45,8 +45,6 @@
 
 以上资料：底部扫码进入知识星球
 
-
-
 ## 二、第二期---技术入门教程（小白基础版）：
 
 一、认识ROM开发
@@ -275,9 +273,9 @@ https://articles.zsxq.com/id_gw7cw1w37c2p.html
 
 ## 资料地址：
 
-1.访问PC端：知识星球-ROM开发者社区
+1.访问PC端：[知识星球-ROM开发者社区](https://wx.zsxq.com/dweb2/index/group/454122251458)
 
-2.扫码加入星球，零距离交流指导开发
+2.微信扫码加入星球，零距离交流指导开发
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0907/153629_70d32aa7_5220892.jpeg "在这里输入图片标题")
 
