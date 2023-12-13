@@ -198,5 +198,6 @@ l 网络锁与案例分析
 
 10.5 System分区签名过程 
 
-摘自：http://bbs.zecoki.com
+官方bbs：http://bbs.zecoki.com    
+开源git: https://github.com/xxxgod/ROM-DevSpace
 ​                                     
