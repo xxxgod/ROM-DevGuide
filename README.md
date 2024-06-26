@@ -131,4 +131,4 @@
 
 ## 参考文献|社区支持
 1. 知识星球 [《ROM开发入门到精通》完整版](https://t.zsxq.com/jdN0o)  
-2. 宅科技 [ROM开发板块](http://bbs.zecoki.com/forum.php?mod=forumdisplay&fid=70)             
+2. 宅科技 [ROM开发社区](http://bbs.zecoki.com/forum.php?mod=forumdisplay&fid=70)             
